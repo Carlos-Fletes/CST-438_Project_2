@@ -36,3 +36,9 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Java/Gradle build artifacts
+build/
+.gradle/
+out/
+*.class
